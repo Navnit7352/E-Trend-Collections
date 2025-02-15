@@ -1,3 +1,4 @@
+
 """
 ASGI config for project1 project.
 
